@@ -2,7 +2,12 @@
     {
         "name": "Movistar LaLiga",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "options": []
+        "options": [
+            {
+                "name": "Movistar LaLigaTV BAR",
+                "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
+            },
+        ]
     },
     {
         "name": "Movistar Liga de Campeones",
