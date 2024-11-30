@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Movistar LaLiga",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "options": []
+    },
+    {
+        "name": "Movistar Liga de Campeones",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "options": []
+    },
+    {
+        "name": "Movistar Deportes",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "options": []
+    },
+    {
+        "name": "DAZN LaLiga",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png?20230705100716",
+        "options": []
+    },
+    {
+        "name": "DAZN F1",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png",
+        "options": []
+    },
+    {
+        "name": "DAZN",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/320px-DAZN_Logo_Master.svg.png",
+        "options": []
+    }
+]
