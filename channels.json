@@ -28,7 +28,36 @@
     {
         "name": "Movistar Liga de Campeones",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",
-        "options": []
+        "options": [
+            {
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816"
+            },
+            {
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
+            },
+            {
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://90beb42e9e276854348bc91a9ff3c3e46c617495"
+            },
+            {
+                "name": "Movistar Liga de Campeones 2",
+                "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
+            },
+            {
+                "name": "Movistar Liga de Campeones 2",
+                "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+            },
+            {
+                "name": "Movistar Liga de Campeones 3",
+                "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+            },
+            {
+                "name": "Movistar Liga de Campeones 3",
+                "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+            }
+        ]
     },
     {
         "name": "Movistar Deportes",
