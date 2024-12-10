@@ -108,6 +108,10 @@
             {
                 "name": "DAZN LaLiga",
                 "url": "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb"
+            },
+            {
+                "name": "DAZN LaLiga",
+                "url": "acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd"
             }
         ]
     },
@@ -130,6 +134,10 @@
             {
                 "name": "DAZN F1",
                 "url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
+            },
+            {
+                "name": "DAZN F1",
+                "url": "acestream://b13deca329dfd6b9a670faba1077b73f6ea7e188"
             }
         ]
     },
@@ -146,12 +154,20 @@
                 "url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a"
             },
             {
+                "name": "DAZN 1",
+                "url": "acestream://ac68b6b6ce1f6c7dca05b04c95aacafc3cddbc1c"
+            },
+            {
                 "name": "DAZN 2",
                 "url": "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a"
             },
             {
                 "name": "DAZN 2",
                 "url": "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810"
+            },
+            {
+                "name": "DAZN 2",
+                "url": "acestream://3e0b292ab03f258f993ba6833b254cca33a79d74"
             },
             {
                 "name": "DAZN 3",
