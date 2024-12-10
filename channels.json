@@ -22,6 +22,10 @@
             {
                 "name": "Movistar LaLiga",
                 "url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
+            },
+            {
+                "name": "Movistar LaLiga",
+                "url": "acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0"
             }
         ]
     },
@@ -31,31 +35,19 @@
         "options": [
             {
                 "name": "Movistar Liga de Campeones",
-                "url": "acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816"
-            },
-            {
-                "name": "Movistar Liga de Campeones",
-                "url": "acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b"
-            },
-            {
-                "name": "Movistar Liga de Campeones",
-                "url": "acestream://90beb42e9e276854348bc91a9ff3c3e46c617495"
+                "url": "acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6"
             },
             {
                 "name": "Movistar Liga de Campeones 2",
-                "url": "acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6"
-            },
-            {
-                "name": "Movistar Liga de Campeones 2",
-                "url": "acestream://2d584c7335ff44f97c3cf64947892ef30fde715c"
+                "url": "acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13"
             },
             {
                 "name": "Movistar Liga de Campeones 3",
-                "url": "acestream://ecf4ec41200785812c140e3d1050b412f1519fa7"
+                "url": "acestream://bb9ec0db8db136f4fcd8986b8681048e2bd95bf1"
             },
             {
-                "name": "Movistar Liga de Campeones 3",
-                "url": "acestream://d59fe9978eed49f256b312a60671b5bce43d3f24"
+                "name": "Movistar Liga de Campeones 4",
+                "url": "acestream://297fab10d7364ca1991fa43fcff469573688ce7a"
             }
         ]
     },
@@ -72,6 +64,10 @@
                 "url": "acestream://3a74d9869b13e763476800740c6625e715a39879"
             },
             {
+                "name": "Movistar Deportes",
+                "url": "acestream://d580d53613be09c7a5388d808509f6c97ec07df2"
+            },
+            {
                 "name": "Movistar Deportes 3",
                 "url": "acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3"
             },
@@ -86,6 +82,10 @@
             {
                 "name": "#Vamos",
                 "url": "acestream://12ba546d229bc39f01c3c18988a034b215fe6adb"
+            },
+            {
+                "name": "#Vamos",
+                "url": "acestream://87a043de5d4cd60c731bc00d09f13bad8d882164"
             }
         ]
     },
