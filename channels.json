@@ -39,15 +39,31 @@
             },
             {
                 "name": "Movistar Liga de Campeones 2",
-                "url": "acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76"
+                "url": "acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94"
             },
             {
                 "name": "Movistar Liga de Campeones 3",
-                "url": "acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28"
+                "url": "acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76"
             },
             {
                 "name": "Movistar Liga de Campeones 4",
-                "url": "acestream://612eed86f1ec250ebff3649e74e6729687c456f7"
+                "url": "acestream://c2cd03703ed2a6039668778cb4a36544a7c951ed"
+            },
+            {
+                "name": "Movistar Liga de Campeones 3",
+                "url": "acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b"
+            },
+            {
+                "name": "Movistar Liga de Campeones 4",
+                "url": "acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6"
+            },
+            {
+                "name": "Movistar Liga de Campeones 3",
+                "url": "acestream://f90c6899eb5cadb0050226548246adb56ceade8a"
+            },
+            {
+                "name": "Movistar Liga de Campeones 4",
+                "url": "acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d"
             }
         ]
     },
