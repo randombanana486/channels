@@ -26,6 +26,14 @@
             {
                 "name": "Movistar LaLiga",
                 "url": "acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0"
+            },
+            {
+                "name": "Movistar LaLiga 2",
+                "url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"
+            },
+            {
+                "name": "Movistar LaLiga 2",
+                "url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"
             }
         ]
     },
