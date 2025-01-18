@@ -5,26 +5,22 @@
         "options": [
             {
                 "name": "Movistar LaLigaTV BAR",
-                "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
+                "url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
             },
             {
                 "name": "Movistar LaLigaTV BAR",
-                "url": "acestream://01b333b9369c662775902638ef8cffac346a0f61"
-            },
-            {
-                "name": "Movistar LaLigaTV BAR",
-                "url": "acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260"
-            },
-            {
-                "name": "Movistar LaLiga",
                 "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
             },
             {
-                "name": "Movistar LaLiga",
+                "name": "Movistar LaLigaTV",
+                "url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
+            },
+            {
+                "name": "Movistar LaLigaTV",
                 "url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
             },
             {
-                "name": "Movistar LaLiga",
+                "name": "Movistar LaLigaTV",
                 "url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
             },
             {
@@ -32,21 +28,25 @@
                 "url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
             },
             {
-                "name": "Movistar LaLiga",
-                "url": "acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0"
-            },
-            {
                 "name": "Movistar LaLiga 2",
                 "url": "acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3"
             },
             {
                 "name": "Movistar LaLiga 2",
-                "url": "acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3"
+                "url": "acestream://f31a586422c9244196c810c84b6c85da350318a5"
             },
             {
-                "name": "Movistar +",
-                "url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
-            }
+                "name": "Movistar LaLiga 3",
+                "url": "acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4"
+            },
+            {
+                "name": "Movistar LaLiga 3",
+                "url": "acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1"
+            },
+            {
+                "name": "Movistar LaLiga 4",
+                "url": "acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f"
+            },
         ]
     },
     {
@@ -146,8 +146,12 @@
                 "url": "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb"
             },
             {
-                "name": "DAZN LaLiga",
-                "url": "acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd"
+                "name": "DAZN LaLiga 2",
+                "url": "acestream://97ba38d47680954be40e48bd8f43e17222fefecb"
+            },
+            {
+                "name": "DAZN LaLiga 2",
+                "url": "acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9"
             }
         ]
     },
