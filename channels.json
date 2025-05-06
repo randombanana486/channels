@@ -55,35 +55,51 @@
         "options": [
             {
                 "name": "Movistar Liga de Campeones",
-                "url": "acestream://0a26e20f39845e928411e09a124374fccb6e1478"
+                "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
             },
             {
-                "name": "Movistar Liga de Campeones 2",
-                "url": "acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94"
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
             },
             {
-                "name": "Movistar Liga de Campeones 3",
-                "url": "acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76"
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://acd1991f35379b01cb09b6a7cc4390c34c6e2bf9"
             },
             {
-                "name": "Movistar Liga de Campeones 4",
-                "url": "acestream://c2cd03703ed2a6039668778cb4a36544a7c951ed"
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://d8550602603193bfa75bf61587dbbb9b3a9a00c7"
             },
             {
-                "name": "Movistar Liga de Campeones 3",
-                "url": "acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b"
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://d697e4effe3525a0bc64a5c141d766e9ee6c11a3"
             },
             {
-                "name": "Movistar Liga de Campeones 4",
-                "url": "acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6"
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
             },
             {
-                "name": "Movistar Liga de Campeones 3",
-                "url": "acestream://f90c6899eb5cadb0050226548246adb56ceade8a"
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://deb8972491e3817ba2335662d7855d2c2c05a900"
             },
             {
-                "name": "Movistar Liga de Campeones 4",
-                "url": "acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d"
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb"
+            },
+            {
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://ce59b6b3640ab5af081d7629cf31bd0efd98561a"
+            },
+            {
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://d7b25d4babb6cfa64ce92f9c35b9c3dadee0b5c3"
+            },
+            {
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb"
+            },
+            {
+                "name": "Movistar Liga de Campeones",
+                "url": "acestream://f7fa79fdad436e969a82389a062a74564e91b10e"
             }
         ]
     },
