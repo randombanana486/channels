@@ -138,7 +138,11 @@
             {
                 "name": "#Vamos",
                 "url": "acestream://87a043de5d4cd60c731bc00d09f13bad8d882164"
-            }
+            },
+            {
+                "name": "#Vamos",
+                "url": "acestream://069431a1199eb2545a14c0a724095e57bdc58e9c"
+            },
         ]
     },
     {
@@ -232,6 +236,20 @@
             {
                 "name": "DAZN 4",
                 "url": "acestream://4e83f23945ab3e43982045f88ec31daaa4683102"
+            }
+        ]
+    },
+    {
+        "name": "Eurosport",
+        "imageUrl": "https://images.seeklogo.com/logo-png/5/1/eurosport-logo-png_seeklogo-50293.png",
+        "options": [
+            {
+                "name": "Eurosport 2",
+                "url": "acestream://ea661a2942ba0b1668c311e7fb6e35c0b3eae2aa"
+            },
+            {
+                "name": "Eurosport 2",
+                "url": "acestream://ea661a2942ba0b1668c311e7fb6e35c0b3eae2aa"
             }
         ]
     }
