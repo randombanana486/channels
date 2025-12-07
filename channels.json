@@ -177,23 +177,15 @@
         "options": [
             {
                 "name": "DAZN F1",
-                "url": "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041"
-            },
-            {
-                "name": "DAZN F1",
-                "url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"
-            },
-            {
-                "name": "DAZN F1",
-                "url": "acestream://d6281d4e6310269b416180442a470d23a4a99dc9"
-            },
-            {
-                "name": "DAZN F1",
                 "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
             },
             {
                 "name": "DAZN F1",
                 "url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
+            },
+            {
+                "name": "DAZN F1",
+                "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55"
             },
             {
                 "name": "DAZN F1",
