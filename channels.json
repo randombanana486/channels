@@ -212,6 +212,10 @@
             {
                 "name": "NBA",
                 "url": "acestream://3462fdb26e872914ecc30572f3d06d391dbb16a9"
+            },
+            {
+                "name": "NBA",
+                "url": "acestream://89679d78397bc1b1b15d7b13044547de9dd39383"
             }
         ]
     }
