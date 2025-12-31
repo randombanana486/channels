@@ -208,6 +208,10 @@
             {
                 "name": "DAZN 2",
                 "url": "acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab"
+            },
+            {
+                "name": "NBA",
+                "url": "acestream://42832fbf9a1d3bdcca043e09951d6769fbbe04e7"
             }
         ]
     }
